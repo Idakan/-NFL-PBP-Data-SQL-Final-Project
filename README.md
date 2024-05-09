@@ -12,6 +12,8 @@ Much of my analysis for this project was through constant comparison of various 
 -	Despite this emphasis on passing the ball, the yearly change in passing rate, particularly on first down, is not what we might expect, since it is not strictly positive.
 
 **Useful Visuals:**
+
+
 ![image](https://github.com/Idakan/-NFL-PBP-Data-SQL-Final-Project/assets/20823933/7bd7212b-4986-4527-a2a4-9bc7203ae70a)
 
 ![image](https://github.com/Idakan/-NFL-PBP-Data-SQL-Final-Project/assets/20823933/d5171dd2-e69a-450d-887a-559c498e6be2)
